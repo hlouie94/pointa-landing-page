@@ -130,8 +130,13 @@ h4 {
         /* text-align: center; */
         position: relative;
         left: 25px;
+        top: 50px;
 
     } 
+    
+    .text {
+        margin-top: 40px;
+    }
 
     .sayhello {
         margin-right: 20px;
